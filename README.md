@@ -15,12 +15,11 @@
         <li> <a href="./steins_gate_0/docs/004">004</a> </li>        
     </ul>
 
-- [000](./steins_gate_0/docs/000)
-- [001](./steins_gate_0/docs/001)
-- [002](./steins_gate_0/docs/002)
-- [003](./steins_gate_0/docs/003)
-- [004](./steins_gate_0/docs/004)
++ [000](./steins_gate_0/docs/000)  
++ [001](./steins_gate_0/docs/001)  
++ [002](./steins_gate_0/docs/002)  
++ [003](./steins_gate_0/docs/003)  
++ [004](./steins_gate_0/docs/004)  
 
 
-<summary> bhenangh </summary>
 </details>
