@@ -18,6 +18,8 @@
     OUTBOX  
 ```
 
+---
+
 ## Year 2
 ### size / speed : 3 / 30  (size challenge)
 
@@ -61,6 +63,8 @@ a:
     OUTBOX  
 ```
 
+---
+
 ## Year 3
 ### size / speed : 6 / 6  (both challenges)
 
@@ -74,6 +78,8 @@ a:
     COPYFROM 3
     OUTBOX  
 ```
+
+---
 
 ## Year 4
 ### size / speed : 7 / 21  (both challenges)
@@ -91,6 +97,8 @@ a:
     JUMP     a
 ```
 
+---
+
 ## Year 6
 ### size / speed : 6 / 24  (both challenges)
 
@@ -106,6 +114,8 @@ a:
     JUMP     a
 ```
 
+---
+
 ## Year 7
 ### size / speed : 4 / 23  (both challenges)
 
@@ -119,6 +129,8 @@ b:
     OUTBOX  
     JUMP     a
 ```
+
+---
 
 ## Year 8
 ### size / speed : 6 / 24  (both challenges)
@@ -135,6 +147,8 @@ a:
     JUMP     a
 ```
 
+---
+
 ## Year 9
 ### size / speed : 5 / 25  (both challenges)
 
@@ -150,6 +164,8 @@ c:
     JUMPZ    a
     JUMP     c
 ```
+
+---
 
 ## Year 10
 ### size / speed : 9 / 36  (both challenges)
@@ -169,6 +185,8 @@ a:
     JUMP     a
 ```
 
+---
+
 ## Year 11
 ### size / speed : 10 / 40  (both challenges)
 
@@ -187,6 +205,8 @@ a:
     OUTBOX  
     JUMP     a
 ```
+
+---
 
 ## Year 12
 ### size / speed : 14 / 56  (both challenges)
@@ -211,6 +231,8 @@ a:
     JUMP     a
 ```
 
+---
+
 ## Year 13
 ### size / speed : 9 / 27  (both challenges)
 
@@ -231,6 +253,8 @@ c:
     JUMPZ    a
     JUMP     c
 ```
+
+---
 
 ## Year 14
 ### size / speed : 10 / 31  (both challenges)
@@ -253,6 +277,8 @@ c:
     JUMP     b
 ```
 
+---
+
 ## Year 16
 ### size / speed : 8 / 34  (both challenges)
 
@@ -271,6 +297,8 @@ c:
     JUMPN    a
     JUMP     b
 ```
+
+---
 
 ## Year 17
 ### size / speed : 12 / 28  (both challenges)
@@ -296,6 +324,8 @@ e:
     OUTBOX  
     JUMP     a
 ```
+
+---
 
 ## Year 19
 ### size / speed : 10 / 114  (size challenge)
@@ -343,6 +373,8 @@ e:
     JUMPN    e
     JUMPZ    c
 ```
+
+---
 
 ## Year 20
 ### size / speed : 15 / 140  (size challenge)
@@ -431,6 +463,8 @@ m:
     JUMP     l
 ```
 
+---
+
 ## Year 21
 ### size / speed : 10 / 72  (both challenges)
 
@@ -452,6 +486,8 @@ d:
     OUTBOX  
     JUMP     a
 ```
+
+---
 
 ## Year 22
 ### size / speed : 19 / 123  (both challenges)
@@ -507,6 +543,8 @@ lDUhcfO+JOtjZanu5zek+1xKy/a5xFlmfYy9vHA/yNz6iV3uTRPcXbt621wmdV3zF+7SipvUZZ3F1+Nd
 dqwvs/vfxL0zb8z/c6x7ybWb3UsWPJi8MPN54pwNb0ynGr1r79N7zTAKRsEoIBoAALyrXlY;
 ```
 
+---
+
 ## Year 23
 ### size / speed : 12 / 73  (both challenges)
 
@@ -534,6 +572,8 @@ e:
 
 ```
 
+---
+
 ## Year 24
 ### size / speed : 11 / 53  (both challenges)
 
@@ -556,6 +596,8 @@ c:
     OUTBOX  
     JUMP     a
 ```
+
+---
 
 ## Year 25
 ### size / speed : 12 / 82  (both challenges)
@@ -581,6 +623,8 @@ d:
     OUTBOX  
     JUMP     a
 ```
+
+---
 
 ## Year 26
 ### size / speed : 15 / 76  (both challenges)
@@ -608,6 +652,8 @@ c:
     OUTBOX  
     JUMP     a
 ```
+
+---
 
 ## Year 28
 ### size / speed : 34 / 134  (size challenge)
@@ -747,6 +793,8 @@ p:
     JUMP     m
 ```
 
+---
+
 ## Year 29
 ### size / speed : 5 / 25  (both challenges)
 
@@ -761,6 +809,8 @@ a:
     OUTBOX  
     JUMP     a
 ```
+
+---
 
 ## Year 30
 ### size / speed : 7 / 203  (both challenges)
@@ -778,6 +828,8 @@ b:
     BUMPUP   24
     JUMP     b
 ```
+
+---
 
 ## Year 31
 ### size / speed : 11 / 118  (both challenges)
@@ -801,6 +853,8 @@ d:
     JUMPZ    b
     JUMP     d
 ```
+
+---
 
 ## Year 32
 ### size / speed : 16 / 404  (size challenge)
@@ -880,6 +934,8 @@ c:
     JUMP     c
 ```
 
+---
+
 ## Year 34
 ### size / speed : 13 / 323  (both challenges)
 
@@ -905,6 +961,8 @@ d:
     OUTBOX  
     JUMP     a
 ```
+
+---
 
 ## Year 35
 ### size / speed : 17 / 159  (both challenges)
@@ -957,6 +1015,8 @@ eJyzZGBgmBaZGjUzwr14ZoRiW0x43az4ML29SaEnLywJ6b/yLLjpdGrI+70Xos+Ve8WZpVul3AoyT40I
 nl2VGT83N2H2vNdx4QsKk0MW1uWcWGo/++iya6sPL2eYU7m6vyJtk6i/3FbFiFvbPqcwHmA527qv6TTD
 KBgFowAnAAD8A25N;
 ```
+
+---
 
 ## Year 36
 ### size / speed : 27 / 64  (both challenges)  
@@ -1028,6 +1088,8 @@ ILX52up7rfYnFVqbTi9vqjoKkjdc90hrwzprm8J1VZlb18g226zaeWTvSuczB1YcPHVgBUxNis7WNSv0
 KldvMDm9RCvu8sKqTJD41QVlh9yX/Tgst7XtHMMoGAUjEAAAISp9uQ;
 ```
 
+---
+
 ## Year 37
 ### size / speed : 8 / 63  (both challenges)
 
@@ -1054,6 +1116,8 @@ ed6s9pBVsW1KW+Ta9PbKtf04LNFx9KxYZ9u5SV3OZ7p6rY/9m5i588M0jkXvphdOLJkqG/ptynvjz1Nj
 QmLmLXkMMu//isKJu1cpbfm0dsEDy9X2J3+tWrFjx2rR1TobUjuWbprdOGO7YBVI3Zrj9ifXH2M4xTAK
 RsEwBgCohI2l;
 ```
+
+---
 
 ## Year 38
 ### size / speed : 28 / 213  (size challenge)
@@ -1270,6 +1334,8 @@ v:
     JUMP     c
 ```
 
+---
+
 ## Year 39
 ### size / speed : 14 / 73  (both challenges)
 
@@ -1307,6 +1373,8 @@ eJzjYWBg8MuPsHPK01nilHdg/+y87NN++SvPixWp3tAtMb35oOb55avNXWcn907c86PPeTsDkaBvsfM8
 EC3cpdjG19M0t6dHacu5bt7LGp3//4PEA5r+/9dsOvUPxN5aG3OPsZLhx/Eyjn+nSo/+Bomlz+K4oDRn
 yeM18yHqR8EoGAW0AQDQ6DkY;
 ```
+
+---
 
 ## Year 40
 ### size / speed : 25 / 499  (size challenge)
@@ -1532,6 +1600,8 @@ eJyTYGBg+Fn93ri2ysisobLSmrNsdvD54qrMq4UbJlwtdF84oXjJ1u7S93vdyrccrK36cbi4bsvBe62z
 11/pbJp7pketk6OPp5yj73MKX4+o/5XOo85R7dY2y5sKTTfVbTBpqNxizjAKRsEoGNQAAB3tLws;
 ```
 
+---
+
 ## Year 41
 ### size / speed : 34 / 695  (both challenges)
 
@@ -1614,3 +1684,5 @@ eJwTYWBg2JxmlFKWOrm6LFWvPy/j3katrBU75PMK9/OXFO53rsjcubdq9vpd1V2LLWsKJ1pXT69jqShM
 Fiy+FTQ376TbtlQGh7qkJkf3eFF/oei92QyjYBSMgiEFAGOuIgc;
 ```
 
+
+ <a href="../.."> home </a> 
