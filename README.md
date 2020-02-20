@@ -13,3 +13,10 @@
         <li> <a href="./steins_gate_0/docs/004"> 004 </a> </li>        
     </ul>
 </details>
+
+<details>
+<summary> [game] Human Resource Machine </summary>
+    <ul>
+        <li> <a href="./human_resource_machine/solutions"> solutions </a> </li> 
+    </ul>
+</details>
