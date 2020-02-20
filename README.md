@@ -3,6 +3,7 @@
 > Here you may find nothing or everything.
 
 ## Projects
+
 <details>
 <summary> [fiction] Steins;Gate 0 </summary>
     <ul>
