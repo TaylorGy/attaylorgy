@@ -6,3 +6,4 @@
 
 ![](../pics/.png)
 
+“*Okey dokey！*”  
