@@ -1,6 +1,6 @@
 > <big> ** - 0** </big>  
 > 1.x  
-> [ 20// ] 
+> [ 20// 间章7 ] 
 
 冈部伦太郎 *Okabe Rintaro* 冈伦 *Okarin* 冈部先生 凤凰院凶真*Hououin Kyoma* 狂气のMad Scientist LABMem No.001
 
@@ -14,9 +14,9 @@
 
 漆原琉华 *Urushibara Ruka* 琉华子 琉华君 琉华哥 LABMem No.006
 
-菲利斯·喵喵 *Faris Nyan-Nyan* 秋叶留未穂 LABMem No.007
+菲利斯·喵喵 *Faris Nyan-Nyan* 秋叶留未穂 留未姐 LABMem No.007
 
-阿万音铃羽 *Amane Suzuha* 约翰·提托 *John·Titor* LABMem No.008
+阿万音铃羽 *Amane Suzuha* 约翰·提托 *John·Titor* 铃喵 LABMem No.008
 
 比屋定真帆 *Hiyajo Maho* LABMem No.009
 
@@ -41,6 +41,8 @@
 「」
 
 ![](../pics/.png)
+
+*MayQueen+Nyan2*
 
 *Okey-dokey！*
 
