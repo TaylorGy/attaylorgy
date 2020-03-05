@@ -31,5 +31,9 @@
     <li> <a href="./steins_gate_0/docs/0014"> 0014 </a> </li>
     <li> <a href="./steins_gate_0/docs/0015"> 0015 </a> </li>
     <li> <a href="./steins_gate_0/docs/0016"> 0016 </a> </li>
+    <li> <a href="./steins_gate_0/docs/0017"> 0017 </a> </li>
+    <li> <a href="./steins_gate_0/docs/0018"> 0018 </a> </li>
+    <li> <a href="./steins_gate_0/docs/0019"> 0019 </a> </li>
+    <li> <a href="./steins_gate_0/docs/0020"> 0020 </a> </li>
   </ul>
 </details>
