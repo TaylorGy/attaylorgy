@@ -1,22 +1,28 @@
 > <big> ** - 0** </big>  
 > 1.x  
-> [ 20// 间章7 ] 
+> [ 间章 // ] 
 
-冈部伦太郎 *Okabe Rintaro* 冈伦 *Okarin* 冈部先生 凤凰院凶真*Hououin Kyoma* 狂气のMad Scientist LABMem No.001
+冈部伦太郎 *Okabe Rintaro* 冈伦 *Okarin* 凤凰院凶真*Hououin Kyoma* 狂气のMad Scientist LABMem No.001
+{桶子，真由理，红莉栖 克里斯蒂娜，萌郁，琉华子，菲利斯，铃羽，比屋定小姐 真帆，篝，雷斯吉宁教授，由季小姐，吹雪小姐，枫小姐，天王寺先生 Mr. 布朗，绹}
 
 桥田至 *Hashida Itaru* 桶子 *Taru* 桥田君 Hentai绅士 LABMem No.002
+{冈伦，真由喜，牧濑氏，萌郁氏，琉华君，菲利斯炭，铃羽，真帆炭，篝}
 
-椎名真由理 *Shiina Mayuri* 真由喜 真由理姐 LABMem No.003
+椎名真由理 *Shiina Mayuri* 真由喜 LABMem No.003
+{冈伦，桶子君，红莉栖小姐，萌郁小姐，琉华君，菲利斯酱，铃小姐 铃羽酱，比屋定小姐，由季小姐，吹雪酱，枫酱}
 
 牧濑红莉栖 *Makise Kurisu* 克里斯蒂娜 *Christina* 助手 栗悟饭和龟波功 LABMem No.004
+{冈部，桥田，真由理，学姐}
 
 桐生萌郁 *Kiriyu Moeka* 闪光的指压师 *Shining Finger* LABMem No.005
 
-漆原琉华 *Urushibara Ruka* 琉华子 琉华君 琉华哥 LABMem No.006
+漆原琉华 *Urushibara Ruka* LABMem No.006
 
-菲利斯·喵喵 *Faris Nyan-Nyan* 秋叶留未穂 留未姐 LABMem No.007
+菲利斯·喵喵 *Faris Nyan-Nyan* 秋叶留未穂 LABMem No.007
+{凶真 冈伦，桶子喵，真由喜喵，萌郁喵，铃喵}
 
-阿万音铃羽 *Amane Suzuha* 约翰·提托 *John·Titor* 铃喵 LABMem No.008
+阿万音铃羽 *Amane Suzuha* 约翰·提托 *John·Titor* LABMem No.008
+{冈伦叔叔，爸爸，真由姐，红莉栖，留未姐}
 
 比屋定真帆 *Hiyajo Maho* LABMem No.009
 
@@ -25,6 +31,13 @@
 阿莱克西斯·雷斯吉宁 *Alexis·Leskinen* 
 
 阿万音由季
+{冈伦先生，桥田君，真由理酱}
+
+吹雪
+{冈伦，真由喜酱}
+
+枫
+{冈伦先生，真由理酱}
 
 天王寺裕吾 *Tennouji Yuugo* Mr. 布朗 *Mr. Braun* 费迪南德·布劳恩（Ferdinand Braun）
 
@@ -51,6 +64,9 @@
 *Reading·Steiner*
 
 *El·Psy·Congroo！*
+
+*♪~有一个要寻找的东西~星星在对我笑眯眯~♪*
+*♪~随着风儿眨着眼~只要伸出手就能抓到哟~♪*
 
 <br/>
 
