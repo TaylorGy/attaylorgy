@@ -19,7 +19,7 @@
 漆原琉华 *Urushibara Ruka* LABMem No.006
 
 菲利斯·喵喵 *Faris Nyan-Nyan* 秋叶留未穂 LABMem No.007
-{凶真 冈伦，桶子喵，真由喜喵，萌郁喵，铃喵}
+{凶真 冈伦，桶子喵，真由喜喵，萌郁喵，铃喵，真帆喵}
 
 阿万音铃羽 *Amane Suzuha* 约翰·提托 *John·Titor* LABMem No.008
 {冈伦叔叔，爸爸，真由姐，红莉栖，留未姐}
@@ -49,9 +49,9 @@
 
 &emsp;&emsp; 
 
-『Amadeus』
+『Amadeus』 以及Rine来文
 
-「」
+「作战」 以及Rine回文
 
 ![](../pics/.png)
 
